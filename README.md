@@ -1,4 +1,5 @@
 # Tetris
+Use arrow keys for movement and 'r' for rotation
 This is my first project after learning C.
 It contains control, gravity, collision, and line-clearing logic.
 I did not add a border as it looked rather ugly.
